@@ -27,7 +27,7 @@ vim /etc/nginx/nginx.conf
 
 ## 2. 配置https与ssl_crt
 
-此处开一个server监控443
+`http{}`中，开一个server监控443
 
 ```
 server {
