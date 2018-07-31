@@ -73,7 +73,7 @@ nginx -s reload
 
 <br>
 
-**本文主要讲述了：得到certification之后的事。**
+**本文主要讲述了：得到ssl_certification之后的事。**
 
 **继而完成https的访问**
 
