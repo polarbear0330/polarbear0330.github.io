@@ -1,20 +1,20 @@
-# ÄÁÒ°µÄ¸öÈË²©¿Í
+# ç‰§é‡Žçš„ä¸ªäººåšå®¢
 
 <br>
 
-1. [TCPÈý´ÎÎÕÊÖ](blogs/TCPÈý´ÎÎÕÊÖ/index)
+1. [TCPä¸‰æ¬¡æ¡æ‰‹](blogs/TCPä¸‰æ¬¡æ¡æ‰‹/index)
 
     <br>
 
-1. [[Ð¡°×´îÍøÕ¾]¾²Ì¬ÍøÒ³+VPS(nginx)+ÓòÃû](blogs/[Ð¡°×´îÍøÕ¾]¾²Ì¬ÍøÒ³+VPS(nginx)+ÓòÃû/index)
+1. [[å°ç™½æ­ç½‘ç«™]é™æ€ç½‘é¡µ+VPS(nginx)+åŸŸå](blogs/[å°ç™½æ­ç½‘ç«™]é™æ€ç½‘é¡µ+VPS(nginx)+åŸŸå/index)
 
     <br>
 
-1. [Îå²ãÍøÂçÄ£ÐÍ](blogs/Îå²ãÍøÂçÄ£ÐÍ/index)
+1. [äº”å±‚ç½‘ç»œæ¨¡åž‹](blogs/äº”å±‚ç½‘ç»œæ¨¡åž‹/index)
 
     <br>
 
-1. [·þÎñÆ÷nginxÅäÖÃsslÖ¤ÊéÓëhttpÌø×ªhttps·ÃÎÊ](blogs/·þÎñÆ÷nginxÅäÖÃsslÖ¤ÊéÓëhttpÌø×ªhttps·ÃÎÊ/index)
+1. [æœåŠ¡å™¨nginxé…ç½®sslè¯ä¹¦ä¸Žhttpè·³è½¬httpsè®¿é—®](blogs/æœåŠ¡å™¨nginxé…ç½®sslè¯ä¹¦ä¸Žhttpè·³è½¬httpsè®¿é—®/index)
 
     <br>
 
