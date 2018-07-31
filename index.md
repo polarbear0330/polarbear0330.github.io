@@ -1,6 +1,6 @@
 # 牧野的个人博客
 
-utf-8<br>
+<br>
 
 1. [TCP三次握手](blogs/TCP三次握手/index)
 

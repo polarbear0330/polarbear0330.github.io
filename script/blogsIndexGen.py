@@ -9,7 +9,7 @@ blogFileLink = "{0}. [{1}](blogs/{1}/index)"
 
 
 indexFile = open(indexFile, "w", encoding="UTF-8")
-indexFile.write(indexFileTitle + "\n\nutf-8<br>\n\n")
+indexFile.write(indexFileTitle + "\n\n<br>\n\n")
 
 dirs = os.listdir(blogDir)
 for name in dirs:
