@@ -10,7 +10,7 @@
 
 > **hablar**
 >
-> ¿Vosotros habláis español?
+> ¿Vosotros **habláis** español?
 
 (Do you speak Spanish?)
 
