@@ -4,4 +4,17 @@
 
 ![](西语-(to)be.svg)
 
-<br><br><br><br><br>
+<br>
+
+##Example
+
+> **Yo soy** un programador.
+
+(programador: programmer, a kind of **O**ccupation)
+
+> **Él estar** triste.
+
+(triste: sad, a kind of **T**emporary feeling)
+
+<br><br><br><br>
+
