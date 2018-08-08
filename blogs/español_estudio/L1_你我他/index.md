@@ -6,83 +6,83 @@
 
 ## Vocabulary
 
-> hola
+> **hola**
 
 hello
 
-> buenos días
+> **buenos días**
 
 good morning
 
-> buenas tardes
+> **buenas tardes**
 
 good afternoon
 
-> buenas noches
+> **buenas noches**
 
 good night
 
-> adiós
+> **adiós**
 
 goodbye
 
-> hasta luego
+> **hasta luego**
 
 see you later
 
-> hasta mañana
+> **hasta mañana**
 
 see you tomorrow
 
-> ¿Cómo te llamas?
+> **¿Cómo te llamas?**
 
 what is your name?
 
-> Me llamo ...
+> **Me llamo ...**
 
 My name is ...
 
-> ¿Hablas español?
+> **¿Hablas español?**
 
 Do you speak Spanish?
 
-> Yo hablo español.
+> **Yo hablo español.**
 
 I speak Spanish.
 
-> No hablo español.
+> **No hablo español.**
 
 I don´t speak Spanish.
 
-> ¿Cómo estás?
+> **¿Cómo estás?**
 
 How are you?
 
-> bien
+> **bien**
 
 fine
 
-> así, así
+> **así, así**
 
 so, so
 
-> Sí
+> **Sí**
 
 Yes
 
-> por favor
+> **por favor**
 
 please
 
-> gracias
+> **gracias**
 
 thank you
 
-> de nada
+> **de nada**
 
 you are welcome
 
-> perdón
+> **perdón**
 
 excuse me
 
