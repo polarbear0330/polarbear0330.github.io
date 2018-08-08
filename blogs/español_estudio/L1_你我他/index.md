@@ -6,6 +6,8 @@
 
 ## Vocabulary
 
+#### Greetings
+
 > **hola**
 
 hello
@@ -22,6 +24,20 @@ good afternoon
 
 good night
 
+> **¿Cómo estás?**
+
+How are you?
+
+> **bien**
+
+fine
+
+> **así, así**
+
+so, so
+
+#### Leaving
+
 > **adiós**
 
 goodbye
@@ -33,6 +49,8 @@ see you later
 > **hasta mañana**
 
 see you tomorrow
+
+#### Others
 
 > **¿Cómo te llamas?**
 
@@ -53,18 +71,6 @@ I speak Spanish.
 > **No hablo español.**
 
 I don´t speak Spanish.
-
-> **¿Cómo estás?**
-
-How are you?
-
-> **bien**
-
-fine
-
-> **así, así**
-
-so, so
 
 > **Sí**
 
@@ -90,4 +96,8 @@ excuse me
 
 
 
-<br><br><br><br><br>
+<br>
+
+[next lesson](../L2_两种be/index)
+
+<br><br><br><br>
