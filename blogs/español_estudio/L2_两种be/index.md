@@ -10,7 +10,7 @@
 
 (programador: programmer, a kind of **O**ccupation)
 
-> **Él estar** triste.
+> **Él está** triste.
 
 (triste: sad, a kind of **T**emporary feeling)
 
@@ -31,6 +31,10 @@ french
 > **alemán**
 
 german
+
+> **chino**
+
+chinese
 
 <br>
 
