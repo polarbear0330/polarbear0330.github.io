@@ -58,7 +58,7 @@ We pay at the cash register.
 
 <br>
 
-[next lesson](../L4/index)
+[next lesson](../L4_go/index)
 
 
 
