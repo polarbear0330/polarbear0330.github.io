@@ -1,4 +1,4 @@
-# Lesson 4
+# Lesson 4 verb: go
 
 <br>
 
@@ -15,7 +15,7 @@
 
 <br>
 
-[next lesson](../L5_/index)
+[next lesson](../L5_verbs_with_er_ir/index)
 
 
 
