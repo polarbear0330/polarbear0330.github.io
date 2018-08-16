@@ -6,6 +6,10 @@
 
     <br>
 
+1. [mysql数据库原理](blogs/mysql数据库原理/index)
+
+    <br>
+
 1. [TCP三次握手](blogs/TCP三次握手/index)
 
     <br>
@@ -15,6 +19,10 @@
     <br>
 
 1. [五层网络模型](blogs/五层网络模型/index)
+
+    <br>
+
+1. [分布式基础](blogs/分布式基础/index)
 
     <br>
 
