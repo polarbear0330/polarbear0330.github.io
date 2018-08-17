@@ -18,13 +18,15 @@
 
 3.1 动图展示B-Tree的**INSERT**操作
 
-​	insert "31":
+  insert "31":
 
 ![](BTree.gif)
 
 3.2 时间复杂度
+
 $$
 O(log(n))
 $$
+
 always for **SEARCH, INSERT, DELETE** operations
 
