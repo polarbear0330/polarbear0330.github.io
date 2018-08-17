@@ -21,7 +21,7 @@
 
 ### 3.1 GIF Show：**INSERT**
 
-![](BTree.gi)
+![](BTree.gif)
 
 ### 3.2 Time Complexity
 
