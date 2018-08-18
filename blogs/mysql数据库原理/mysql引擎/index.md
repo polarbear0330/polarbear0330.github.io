@@ -1,14 +1,14 @@
 # 数据库引擎
 
-## MySQL Engine：innoDB vs myISAM
+## ———MySQL Engine：innoDB vs myISAM
 
 ### MySQL Database Engine简介
 
-#### MySQL
+#### 1. MySQL
 
 
 
-#### Engine
+#### 2. Engine
 
 MySQL有多种存储引擎， 如MyISAM、InnoDB、MEMORY(HEAP)、ARCHIVE、MERGE、BDB(BerkeleyDB)、EXAMPLE、FEDERATED、CSV、BLACKHOLE。
 
@@ -26,11 +26,11 @@ MySQL有多种存储引擎， 如MyISAM、InnoDB、MEMORY(HEAP)、ARCHIVE、MERG
 
 ### 最常用的2个Engine——innoDB & myISAM
 
-#### innoDB
+#### 1. innoDB
 
 
 
-#### myISAM
+#### 2. myISAM
 
 
 
@@ -49,3 +49,4 @@ MySQL有多种存储引擎， 如MyISAM、InnoDB、MEMORY(HEAP)、ARCHIVE、MERG
 |                    |                                                              |                                                              |
 |                    |                                                              |                                                              |
 
+<br><br><br><br>
