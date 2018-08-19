@@ -48,7 +48,7 @@
 
 - **Sony MDR EX750NA**：音质更好、降噪同Bose QC 20一样好、舒适度很低、有线
 
-### 超级剁手篇
+### 超级剁手式
 
 **Bose A20 Aviation Headset**
 
