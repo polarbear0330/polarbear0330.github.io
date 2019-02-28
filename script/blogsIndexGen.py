@@ -15,7 +15,7 @@ def genIndex(BlogDir, relativeBlogDir, IndexFile, indexFileTitle):
     for name in dirs:
         # print(name)
         if os.path.isdir(blogDir + "/" + name):
-            # print(name)
+            print(name)
             indexFile.write(blogFileLink.format(1, name, relativeBlogDir) + "\n\n")
             indexFile.write("    <br>" + "\n\n")
 

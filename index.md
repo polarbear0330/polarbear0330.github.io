@@ -2,6 +2,14 @@
 
 <br>
 
+1. [DigitalOcean搭建VPS + ShadowSocks搭建](blogs/DigitalOcean搭建VPS + ShadowSocks搭建/index)
+
+    <br>
+
+1. [DO_VPS_IPBanned_ changeDroplet](blogs/DO_VPS_IPBanned_ changeDroplet/index)
+
+    <br>
+
 1. [español_estudio](blogs/español_estudio/index)
 
     <br>
@@ -11,6 +19,10 @@
     <br>
 
 1. [TCP三次握手](blogs/TCP三次握手/index)
+
+    <br>
+
+1. [typora + 为知笔记markdown](blogs/typora + 为知笔记markdown/index)
 
     <br>
 
@@ -27,6 +39,10 @@
     <br>
 
 1. [服务器nginx配置ssl证书与http跳转https访问](blogs/服务器nginx配置ssl证书与http跳转https访问/index)
+
+    <br>
+
+1. [高科技设备购买指南](blogs/高科技设备购买指南/index)
 
     <br>
 
