@@ -1,12 +1,16 @@
-# 斯里兰卡 - 景点汇总（by牧野）
+# 斯里兰卡 - 十日游览路线（by牧野）
 
 ![](2.jpg)
 
-## 首都（科伦坡）
+#`DAY1`
+
+
+
+### 首都（科伦坡）
 
 ？
 
-## 美蕊沙（Mirissa）
+### 美蕊沙（Mirissa）
 
 - [美蕊沙海滩](http://www.mafengwo.cn/poi/35163.html)
 
@@ -14,7 +18,7 @@
 
   南部沿海城市，可出海观鲸
 
-## 加勒（Galle）
+### 加勒（Galle）
 
 - [加勒城堡](http://www.mafengwo.cn/poi/34904.html)
 
@@ -22,7 +26,7 @@
 
   加勒火车站附近，南部沿海城市，门票免费，适合散步，1~3小时
 
-## 丹布勒（Dambulla）
+### 丹布勒（Dambulla）
 
 - [狮子岩](http://www.mafengwo.cn/poi/6661514.html)
 
@@ -30,7 +34,7 @@
 
   45分钟长途汽车，内陆，门票30美元，世界第八大奇迹，3小时
 
-## 康提（Kandy）
+### 康提（Kandy）
 
 - [佛牙寺](http://www.mafengwo.cn/poi/34893.html)(我不信佛，有人信嘛？)
 
@@ -44,7 +48,7 @@
 
   佛教圣地康提市中心
 
-## 努沃勒埃利耶（Nuwara Eliya）
+### 努沃勒埃利耶（Nuwara Eliya）
 
 - [霍尔顿平原国家公园](http://www.mafengwo.cn/poi/5442864.html)
 
