@@ -38,6 +38,10 @@
 
     <br>
 
+1. [斯里兰卡旅游](blogs/斯里兰卡旅游/index)
+
+    <br>
+
 1. [服务器nginx配置ssl证书与http跳转https访问](blogs/服务器nginx配置ssl证书与http跳转https访问/index)
 
     <br>
